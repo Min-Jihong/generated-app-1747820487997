@@ -1,0 +1,3 @@
+# ProductDetailPage
+
+The `ProductDetailPage` component is designed to display detailed information about a product. It expects a `product` prop, containing the product's `id`, `name`, `description`, and `imageUrl`. This component makes use of `shadcn/ui` components such as `Card`, `Image`, and `Text` to layout the product details in a clean, styled manner using Tailwind CSS. This component showcases how to create a simple yet effective product detail page, suitable for e-commerce or any platform dealing with items or services. It's structured and styled in a way that emphasizes the product image and details, making crucial information instantly accessible and visually appealing.
