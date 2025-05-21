@@ -1,0 +1,3 @@
+# LoginForm
+
+This `LoginForm` component is designed to provide a basic login form functionality using React functional components with TypeScript. It uses `shadcn/ui` for UI components like `Button` and `TextInput`, styled with Tailwind CSS. The form handling is powered by `react-hook-form` for easy form state management. Upon submitting the form, it currently simulates an API call by logging the form data. In a real application, this would be replaced with an actual API call to authenticate the user. On successful login, it redirects the user to a product detail page using Next.js' `useRouter` hook. It also demonstrates basic form validation and error handling, displaying an error message if login fails.
